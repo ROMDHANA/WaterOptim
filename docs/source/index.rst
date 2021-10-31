@@ -10,24 +10,7 @@ A powerful pure-Python interface for optimizing industrial water networks
    :depth: 3
 
 
-Installation
-"""""""""""""""""
 
-``WaterOptim``  runs under Python 3.6+. To install it with `pip`_, run the following:
-
-.. _pip: https://pypi.org/project/WaterOptim/
-
-.. code:: python
-
-  pip install WaterOptim
-
-To upgrade it with `pip`_, run the following:
-
-.. _pip: https://pypi.org/project/WaterOptim/
-
-.. code:: python
-
-  pip install --upgrade WaterOptim
 
 Basic Usage
 """""""""""""""""
@@ -191,3 +174,4 @@ Contents
    usage
    api
    aknowledgments
+   dependencies
