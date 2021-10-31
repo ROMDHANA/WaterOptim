@@ -193,14 +193,14 @@ https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
    :alt: water network1
    
    
-.. image:: /docs/source/exmple1_network.svg
+.. image:: /docs/exmple1_network.svg
    :height: 400
    :width: 400
    :alt: water network2
    
    
 
-.. image:: docs/source/exmple1_network.svg
+.. image:: docs/exmple1_network.svg
    :height: 400
    :width: 400
    :alt: water network3
