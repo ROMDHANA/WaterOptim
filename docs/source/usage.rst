@@ -14,7 +14,7 @@ Installation
 
 .. code-block:: console
 
-   (.venv) $ pip install WaterOptim
+   pip install WaterOptim
    
 .. _upgrade:
 
@@ -28,7 +28,7 @@ To upgrade it with `pip`_, run the following:
 
 .. code-block:: console
 
-   (.venv) $ pip install --upgrade WaterOptim
+   pip install --upgrade WaterOptim
    
 .. _Quickstart:
 
@@ -53,15 +53,22 @@ The inventory can be carried out on:
 
 The inventory includes:
 
-.. code-block::
+.. list-table::
+   :header-rows: 1
 
-  +----------+------------------------------+------+
-  |          |          Parameter           | Unit |
-  +----------+------------------------------+------+
-  |    mc    | Mass flowrate of contaminant | kg/h |
-  | cin_max  | Maximum inlet concentration  | ppm  |
-  | cout_max | Maximum outlet concentration | ppm  |
-  +----------+------------------------------+------+
+   * -
+     - Parameter
+     - Unit
+   * - ``mc``
+     - Mass flowrate of contaminant
+     - ``kg/h``
+   * - ``cin_max``
+     - Maximum inlet concentration
+     - ``ppm``
+   * - ``cout_max``
+     - Maximum outlet concentration
+     - ``ppm``
+
       
       
 Example of ``Water-using process`` inventory:
@@ -78,15 +85,20 @@ Example of ``Water-using process`` inventory:
 ``Source`` water flow, available for the ``REUSE``.
 
 The inventory includes:
- 
-.. code-block::
 
-  +---+----------------------+------+
-  |   |      Parameter       | Unit |
-  +---+----------------------+------+
-  | m |    Water flowrate    | m3/h |
-  | c | Outlet concentration | ppm  |
-  +---+----------------------+------+
+.. list-table::
+   :header-rows: 1
+
+   * -
+     - Parameter
+     - Unit
+   * - ``m``
+     - Water flowrate
+     - ``m3/h``
+   * - ``c``
+     - Outlet concentration
+     - ``ppm``
+ 
 
 Example of ``Sources`` inventory:
 
@@ -102,14 +114,19 @@ Example of ``Sources`` inventory:
  
 The inventory includes:
 
-.. code-block::
+.. list-table::
+   :header-rows: 1
 
-  +---------+-----------------------------+------+
-  |         |          Parameter          | Unit |
-  +---------+-----------------------------+------+
-  |    m    |        Water flowrate       | m3/h |
-  | cin_max | Maximum inlet concentration | ppm  |
-  +---------+-----------------------------+------+
+   * -
+     - Parameter
+     - Unit
+   * - ``m``
+     - Water flowrate
+     - ``m3/h``
+   * - ``cin_max``
+     - Maximum inlet concentration
+     - ``ppm``
+
   
 Example of ``Sinks`` inventory:
 
