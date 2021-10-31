@@ -157,7 +157,10 @@ Using the ``cascade`` attribute you can access the optimization details:
     +---------+------------+-------------------+----------+----------+-----------+--------+--------+
 
 
-![water-network](https://raw.githubusercontent.com/ROMDHANA/WaterOptim/e868019eabd74f3475f570ba867ae50595f119f2/basic1.svg)
+.. image:: https://github.com/ROMDHANA/WaterOptim/blob/examples/docs/source/exmple1_network.svg
+   :height: 400
+   :width: 400
+   :alt: alternate text
 
 Dependencies
 """""""""""""""""
