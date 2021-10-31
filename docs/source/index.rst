@@ -1,6 +1,9 @@
 """""""""""""""""
 Water Pinch Analysis
 """""""""""""""""
+
+{index}
+
 A powerful pure-Python interface for optimizing industrial water networks
 
 .. contents:: Overview
