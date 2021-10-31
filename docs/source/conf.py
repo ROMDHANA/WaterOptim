@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'WaterOptim'
+copyright = '2021, Romdhana'
+author = 'Romdhana'
 
 release = '0.1'
 version = '0.1.0'
