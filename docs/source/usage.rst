@@ -185,8 +185,9 @@ To display the water network:
 
    >> r.design.draw()
 
+https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
 
-.. image:: main/docs/source/exmple1_network.svg
+.. image:: https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
    :height: 400
    :width: 400
    :alt: water network
