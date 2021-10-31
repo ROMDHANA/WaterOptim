@@ -190,4 +190,19 @@ https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
 .. image:: https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
    :height: 400
    :width: 400
-   :alt: water network
+   :alt: water network1
+   
+.. image:: /docs/source/exmple1_network.svg
+   :height: 400
+   :width: 400
+   :alt: water network2
+   
+ .. image:: /source/exmple1_network.svg
+   :height: 400
+   :width: 400
+   :alt: water network3
+   
+ .. image:: /exmple1_network.svg
+   :height: 400
+   :width: 400
+   :alt: water network4
