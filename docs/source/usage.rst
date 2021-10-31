@@ -138,8 +138,8 @@ Example of ``Sinks`` inventory:
               
               
               
-Basic compilation
-"""""""""""""""""
+**Basic compilation**
+
 
 Import this module with the following command:
 
