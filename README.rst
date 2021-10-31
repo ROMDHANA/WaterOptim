@@ -136,7 +136,9 @@ Compilation of ``water-using processes``
 
 Using the ``cascade`` attribute you can access the optimization details:
 
-.. code-block::
+.. code:: python
+
+   >> r.cascade
 
     +---------+------------+-------------------+----------+----------+-----------+--------+--------+
     |  C ppm  |   Purity   | Purity Difference |   NWSD   |   CWSD   |    PWF    |  CPWF  |  FFW   |
@@ -155,6 +157,12 @@ Using the ``cascade`` attribute you can access the optimization details:
     | 1000000 |  0.000000  |                   |   0.00   |          |           | 89.96  | 89.96  |
     |    -    |     -      |         -         |    -     | ww=90.00 |           |        |        |
     +---------+------------+-------------------+----------+----------+-----------+--------+--------+
+
+To display the water network:
+
+.. code:: python
+
+   >> r.design.draw()
 
 
 .. image:: https://github.com/ROMDHANA/WaterOptim/blob/examples/docs/source/exmple1_network.svg
