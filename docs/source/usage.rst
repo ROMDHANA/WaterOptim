@@ -186,7 +186,7 @@ To display the water network:
    >> r.design.draw()
 
 
-.. image:: /docs/source/exmple1_network.svg
+.. image:: docs/source/exmple1_network.svg
    :height: 400
    :width: 400
-   :alt: alternate text
+   :alt: water network
