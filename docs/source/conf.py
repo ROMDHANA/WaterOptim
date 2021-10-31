@@ -1,10 +1,10 @@
-# Configuration file for the Sphinx documentation builder.
+i# Configuration file for the Sphinx documentation builder.
 
 # -- Project information
 
 project = 'WaterOptim'
 copyright = '2021, Romdhana'
-author = 'Romdhana'
+author = 'Hedi Romdhana'
 
 release = '0.1'
 version = '0.1.0'
