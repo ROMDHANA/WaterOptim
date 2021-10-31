@@ -8,8 +8,8 @@ Welcome to ``WaterOptim`` documentation!
 Contents
 --------
 
-.. toctree::
- :maxdepth: 3
 
-  usage
-  api
+.. toctree::
+
+   usage
+   api
