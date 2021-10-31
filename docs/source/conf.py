@@ -4,7 +4,7 @@ i# Configuration file for the Sphinx documentation builder.
 
 project = 'WaterOptim'
 copyright = '2021, Romdhana'
-author = 'Hedi Romdhana'
+author = 'Romdhana'
 
 release = '0.1'
 version = '0.1.0'
