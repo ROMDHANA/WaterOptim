@@ -196,3 +196,7 @@ https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg
 .. raw:: html
 
         <img src="https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/exmple1_network.svg" alt="No message"/></a>
+
+
+.. image:: exmple1_network.svg
+   :target: _images/exmple1_network.svg
