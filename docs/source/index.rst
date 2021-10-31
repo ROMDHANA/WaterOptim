@@ -1,4 +1,5 @@
-
+Welcome to `WaterOptim` documentation!
+===================================
 
 .. note::
 
