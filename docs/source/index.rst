@@ -13,5 +13,3 @@ Contents
 
   usage
   api
-  aknowledgments
-  dependencies
