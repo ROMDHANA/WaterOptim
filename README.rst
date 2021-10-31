@@ -12,7 +12,7 @@ Installation
 
 ``WaterOptim``  runs under Python 3.6+. To install it with `pip`_, run the following:
 
-.. _pip: https://pip.readthedocs.io
+.. _pip: https://pypi.org/project/WaterOptim/
 
 .. code:: python
 
@@ -20,7 +20,7 @@ Installation
 
 To upgrade it with `pip`_, run the following:
 
-.. _pip: https://pip.readthedocs.io
+.. _pip: https://pypi.org/project/WaterOptim/
 
 .. code:: python
 
