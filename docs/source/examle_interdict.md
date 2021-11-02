@@ -41,11 +41,12 @@ Si on interdit tous les couplages avec le poste 2 :
 ```py
      interdictions = [
                       ("process 2","process 1")
-                      ("process 2","process 2"),
-                      ("process 2","process 3")]  
+                      ("process 2","process 3"),
+                      ("process 2","process 4")]  
 ```
 
-Résultat :
+Résultat montre un message en rouge au niveau du poste 4 qui présente un déficit :
+
 
 ![Réseau 2](https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/interdict2.svg)
 
