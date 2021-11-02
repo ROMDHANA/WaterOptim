@@ -27,3 +27,13 @@
        r= wp.__pinch__(usages=usages,verbose=1, interdictions=interdictions)
 
 ```
+
+Pour afficher le réseau d'eau :
+
+```py
+       >> r.design.draw()
+```
+
+![Réseau 1](https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/interdict1.svg)
+
+
