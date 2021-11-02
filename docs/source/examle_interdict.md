@@ -36,4 +36,17 @@ Pour afficher le réseau d'eau :
 
 ![Réseau 1](https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/interdict1.svg)
 
+Si on interdit tous les couplages avec le poste 2 :
+
+```py
+     interdictions = [
+                      ("process 2","process 1")
+                      ("process 2","process 2"),
+                      ("process 2","process 3")]  
+```
+
+Résultat :
+
+![Réseau 2](https://github.com/ROMDHANA/WaterOptim/blob/main/docs/source/interdict2.svg)
+
 
