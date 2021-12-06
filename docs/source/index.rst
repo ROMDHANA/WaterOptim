@@ -1,6 +1,5 @@
-Welcome to ``WaterOptim`` documentation!
+Welcome to ``WaterOptim`` documentation
 ===================================
-
 
 
 .. image:: water-drop.svg
