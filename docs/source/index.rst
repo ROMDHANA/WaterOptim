@@ -24,6 +24,7 @@ Contents
 .. toctree::
 
    usage
+   interface
    api
    aknowledgments
    dependencies
