@@ -25,7 +25,6 @@ Contents
 
    usage
    interface
-      milkinterface
    api
    aknowledgments
    dependencies
