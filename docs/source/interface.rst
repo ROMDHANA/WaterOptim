@@ -33,10 +33,6 @@ Launching the user interface
 .. image:: launch_waterOptim.png
    :target: _images/launch_waterOptim.png
    
-========================
-ex
-========================
-   
 To benefit from all the features, this software should be activated with a license file (free of charge). To obtain the activation file, `write to me`_ at ``hedi.romdhana@agroparistech.fr``
 
 .. image:: get_licence.png
@@ -45,5 +41,7 @@ To benefit from all the features, this software should be activated with a licen
 .. _Write to me: hedi.romdhana@agroparistech.fr
 
 .. _anaconda: https://www.anaconda.com/products/distribution
+
+.. include:: milkinterface.rst
 
 
