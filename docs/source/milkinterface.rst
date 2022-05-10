@@ -7,3 +7,7 @@ graph
    digraph foo {
       "bar" -> "baz";
    }
+ 
+.. graph:: foo
+
+   "bar" -- "baz";
