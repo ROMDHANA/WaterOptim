@@ -42,6 +42,9 @@ To benefit from all the features, this software should be activated with a licen
 
 .. _anaconda: https://www.anaconda.com/products/distribution
 
+========
+Examples
+========
 .. include:: milkinterface.rst
 
 
