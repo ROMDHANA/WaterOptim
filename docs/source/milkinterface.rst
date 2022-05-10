@@ -1,5 +1,7 @@
 Dairy processing
 ================
+graph
+
 .. graphviz::
 
    digraph foo {
