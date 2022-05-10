@@ -30,6 +30,9 @@ Launching the user interface
 - Import ``WaterOptim`` package with the instruction ``from WaterOptim.uiwpinch import pinch`` then ``enter key``
 - Launch the interface with ``pinch()`` instruction
 
+.. image:: launch_waterOptim.png
+   :target: _images/launch_waterOptim.png
+
 .. _anaconda: https://www.anaconda.com/products/distribution
 
 
