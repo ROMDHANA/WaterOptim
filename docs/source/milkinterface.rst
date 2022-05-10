@@ -1,6 +1,6 @@
 Dairy processing
 ================
-graphk
+graph
 
 .. graphviz::
 
