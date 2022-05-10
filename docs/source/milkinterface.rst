@@ -1,9 +1,6 @@
 Dairy processing
 ================
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
+
+.. image:: WheyProcessing.drawio.svg
+   :target: _images/WheyProcessing.drawio.svg
+
