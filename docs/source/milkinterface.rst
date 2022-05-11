@@ -10,5 +10,5 @@ Inventory data is collected in the following table.
    bbbbbbbb
 
    
-.. image:: ../images/coolingTower.drawio.svg
+.. image:: _images/coolingTower.drawio.svg
 
