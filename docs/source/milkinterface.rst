@@ -13,7 +13,7 @@ Inventory data is collected in the following table:
 
    Whey processing, RO permeate ``S1``, ``Source``, 10,--, 20,--
    Evaporation, Condensates ``S2``, ``Source``, 5,--, 60,--
-   Cooling Tower, Makeup Water ``D1``, Sink, 5, 20,-- ,--
+   Cooling Tower, Makeup Water ``D1``, ``Sink``, 5, 20,-- ,--
    CIPs, Prewashing ``P1``, ``Post``,--,20,1000,100
    CIPs, Rinsing ``P2``, ``Post``,--,3,30,20
    
@@ -30,3 +30,11 @@ Inventory data is collected in the following table:
    
    Cooling Tower
 
+New project
+******************
+To add a new project, press ``Ctrl`` + ``N`` or click on ``New`` from ``File`` menu then enter the name of the project and add a description.
+
+.. figure:: newProjectMilk.png
+   :target: _images/newProjectMilk.png
+   
+   Add a new project
