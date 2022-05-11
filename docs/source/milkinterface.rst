@@ -6,9 +6,11 @@ Finally, we consider the use of water in CIPs for pre-washing (``post 1``) and r
 Inventory data is collected in the following table.
 
 .. csv-table:: Data Collection
-   :header: "Inventory", "Type", :math:`Flowrate\,m^3/h`, :math:`COD_{in}\,ppm`, :math:`COD_{out}\,ppm`
+   :header: Workshop, "Inventory", "Type", Flowrate :math:`[m^3/h]`, :math:`COD_{in}` :math:`ppm`, :math:`COD_{out}` :math:`ppm`
 
-   "RO permeate", "Source 1 S1", 10, 20
+   Whey processing, RO permeate ``S1``, ``Source``, 10,--, 20
+   Evaporation, Condensates ``S2``, ``Source``, 5,--, 60
+   Cooling Tower, Makeup Water ``D1``, Sink, 5, 20,-- 
 
 
 .. figure:: WheyProcessing.drawio.svg
