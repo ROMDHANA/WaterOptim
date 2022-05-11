@@ -5,9 +5,10 @@ We consider also the makeup water supplied in the cooling tower. This water is c
 Finally, we consider the use of water in CIPs for pre-washing (``post 1``) and rinsing (``post 2``) operations.
 Inventory data is collected in the following table.
 
-.. | Whey Processing| image:: WheyProcessing.drawio.svg
+.. image:: WheyProcessing.drawio.svg
    :target: _images/WheyProcessing.drawio.svg
+   :alt: Whey Processing
    
-.. Cooling Tower image:: coolingTower.drawio.svg
+.. image:: coolingTower.drawio.svg
    :target: _images/coolingTower.drawio.svg
 
