@@ -8,6 +8,6 @@ Inventory data is collected in the following table.
 .. | Whey Processing| image:: WheyProcessing.drawio.svg
    :target: _images/WheyProcessing.drawio.svg
    
-.. image:: coolingTower.drawio.svg
+.. Cooling Tower image:: coolingTower.drawio.svg
    :target: _images/coolingTower.drawio.svg
 
