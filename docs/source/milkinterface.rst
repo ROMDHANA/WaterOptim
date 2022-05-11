@@ -6,7 +6,7 @@ Finally, we consider the use of water in CIPs for pre-washing (``post 1``) and r
 Inventory data is collected in the following table.
 
 .. csv-table:: Data Collection
-   :header: "Inventory", "Type", "Water flowrate" :math: `m3/h`, "COD in [ppm]", "COD out [ppm]"
+   :header: "Inventory", "Type", :math:`a > 0`, "COD in [ppm]", "COD out [ppm]"
 
    "RO permeate", "Source 1 S1", 10, 20
 
