@@ -1,5 +1,8 @@
 Dairy processing
 ================
+
+Data Cillection
+*******************
 We consider a hypothetical data representative of a dairy industry. The major challenge in terms of water-saving consists to reuse water from whey processing (microfiltration, reverse osmosis, and concentration). This water is considered a ``source`` (``S1`` and ``S2``) that can potentially be reused in other processes.
 
 We consider also the makeup water supplied in the cooling tower. This water is considered a ``sink`` (or ``demand`` ``D1``) that can be supplied from the source streams.
