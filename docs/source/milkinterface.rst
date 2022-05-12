@@ -31,6 +31,7 @@ Inventory data is collected in the following table:
 .. figure:: coolingTower.drawio.svg
    :target: _images/coolingTower.drawio.svg
    
+ 
    Cooling Tower
 
 New project
