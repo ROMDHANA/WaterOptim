@@ -59,6 +59,7 @@ Add inventories
 Add the inventories of sources, sinks and posts, respectively from  ``Sources``, ``Sinks`` and ``Posts`` tabs. Water flowrate is expressed in m3/h, COD concentration in ppm, and COD mass load in kg/h.
 
 textttt
+
 .. image:: pinch.png
    :height: 25px
    :target: _images/pinch.png
