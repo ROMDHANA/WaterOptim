@@ -61,8 +61,15 @@ Add the inventories of sources, sinks and posts, respectively from  ``Sources``,
 Pinch analysis
 ****************
 
-Click on |bpinch| to start the calculation.
+Click on |bpinch| to start the calculation. The result of the analysis is instantly displayed in a panel below the inventories.
+
+|milknetwork|
 
 .. |bpinch| image:: pinch.png
    :height: 20px
    :target: _images/pinch.png
+   
+.. |milknetwork| figure:: ilknetwork.pdf
+   :target: _images/ilknetwork.pdf
+
+
