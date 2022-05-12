@@ -42,8 +42,9 @@ To add a new project, press ``Ctrl`` + ``N`` or click on ``New`` from ``File`` m
    :target: _images/newProjectMilk.png
    
    Add a new project
-   
- New pollutant
+
+
+New pollutant
  **************
 From the ``Pollutants`` tab, add the pollution indicator **DCO** (Chemical oxygen demand).
 
