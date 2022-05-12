@@ -63,8 +63,8 @@ Pinch analysis
 
 Click on |bpinch| to start the calculation. The result of the analysis is instantly displayed in a panel below the inventories.
 
-.. figure:: milknetwork.pdf
-   :target: _images/milknetwork.pdf
+.. figure:: milknetwork.svg
+   :target: _images/milknetwork.svg
 
 
 .. |bpinch| image:: pinch.png
