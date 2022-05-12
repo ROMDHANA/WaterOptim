@@ -68,7 +68,6 @@ Click on |bpinch| to start the calculation. The result of the analysis is instan
    
     Water-Network
 
-
 .. |bpinch| image:: pinch.png
    :height: 20px
    :target: _images/pinch.png
