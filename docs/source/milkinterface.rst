@@ -46,7 +46,7 @@ To add a new project, press ``Ctrl`` + ``N`` or click on ``New`` from ``File`` m
 
 
 New pollutant
- **************
+**************
 From the ``Pollutants`` tab, add the pollution indicator **DCO** (Chemical oxygen demand).
 
 .. figure:: newPollutant.png
