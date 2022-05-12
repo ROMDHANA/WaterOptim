@@ -65,6 +65,8 @@ Click on |bpinch| to start the calculation. The result of the analysis is instan
 
 .. figure:: milknetwork.svg
    :target: _images/milknetwork.svg
+   
+    Water-Network
 
 
 .. |bpinch| image:: pinch.png
